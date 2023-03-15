@@ -1,6 +1,5 @@
-[http://crok.homelinux.com/] --
-[https://crok.homelinux.com/shell/] -- SSHS
-[http://gmail.com/] --Gmail
+[Homelinux] (http://crok.homelinux.com/)
+[Gmail] (http://gmail.com/)
 [https://mail.bt.com/owa] --
 [https://web.telegram.org/] --
 [https://diplon.hu/] -- diplon
